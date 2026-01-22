@@ -1,3 +1,0 @@
-python3 reset.py
-python3 ethereal/client.py
-python3 stockfish/client.py
