@@ -1,0 +1,1 @@
+TMPDIR=/var/www/html/chess/jja-stuff CARGO_TARGET_DIR=/var/www/html/chess/jja-stuff cargo install jja
